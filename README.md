@@ -1,13 +1,19 @@
-# Boilerplate Ruby 
+# Academic 
 
-Boilerplate app RoR and Docker Environment
+Academic system to Academic context management.
 
-# Resources
+# Tec Resources
 
 - Docker Enviroment \[Optional\]
 - Ruby 2.5.0
 - Rails 6.0.3 or more recently
 - PostgreSQL
 
-# GetStarted 
+# Get Started 
+
+To setup development application environment run: `make install`
+
+Execute app with `make run`
+
+Tests with `make test`
 
